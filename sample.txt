@@ -4,3 +4,4 @@ git test 1
 add add updates to index
 
 update by test1
+update test2 (after test1)
