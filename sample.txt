@@ -1,2 +1,4 @@
  
 git test 1
+
+add add updates to index
